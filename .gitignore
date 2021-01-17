@@ -1,1 +1,4 @@
 *.config~
+*.sdf~
+*.un~
+*.gitignore~
